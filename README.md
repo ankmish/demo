@@ -1,5 +1,6 @@
-Hello World!!
-Learning git
-gfjdgfjdfgfjhdgfjdhdfgjd
+# Heading
+## Heading 2
 
-jUST SOSJFSFB
+Learning github.
+Demo folder for basics operations on github like push, pull, branch creation,
+conflicts, merge etc.
